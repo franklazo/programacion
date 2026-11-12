@@ -1,0 +1,10 @@
+# Librería `decimal`
+
+```python
+from decimal import Decimal
+
+a = Decimal("0.1")
+b = Decimal("0.2")
+
+print(a + b)  # Decimal("0.3")
+```
