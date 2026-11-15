@@ -1,4 +1,4 @@
-# Fundamentos del lenguaje
+# Fundamentos
 
 - [Comentarios](comentarios.md)
 - [Sentencias](sentencias.md)

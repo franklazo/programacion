@@ -6,7 +6,8 @@ Apuntes generales del lenguaje de programación [Python][python]
 
 ## Contenido
 
-- [Fundamentos del lenguaje](docs/fundamentos.md)
+- [Fundamentos](docs/fundamentos.md)
+- [Estructuras de control](docs/estructuras-control.md)
 
 <!-- REFERENCIAS -->
 

@@ -1,4 +1,4 @@
-# Fundamentos del lenguaje
+# Fundamentos
 
 ## Bloque A
 

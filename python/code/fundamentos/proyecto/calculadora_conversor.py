@@ -1,9 +1,9 @@
 # ----------------------------------------------------------------------
-# Mini proyecto 1
+# Proyecto 01
 # ----------------------------------------------------------------------
 #
 # Calculadora básica por consola (suma, resta, multiplicación, división)
-# Conversor de unidades (°C ↔ °F, km ↔ millas)
+# y un conversor de unidades (°C ↔ °F, km ↔ millas)
 # ----------------------------------------------------------------------
 
 # --- Constantes ---
