@@ -10,3 +10,4 @@
 - [Iterable `range`](iterable-range.md)
 - [Control de bucles](control-bucles.md)
 - [Operadores de pertenencia](operadores-pertenencia.md)
+- [Apuntes complementarios 2](complementarios-2.md)
