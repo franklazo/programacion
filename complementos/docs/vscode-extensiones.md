@@ -1,4 +1,4 @@
-# Extensiones y perfiles
+# Extensiones
 
 Generales:
 
