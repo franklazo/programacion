@@ -8,6 +8,7 @@ Problemas generados por [Claude](https://claude.ai/):
 
 Herramientas adicionales:
 
+- [Git](docs/git.md)
 - [Markdown](docs/markdown.md)
 - [Visual Studio Code](docs/vscode.md)
-- [Estructura de un comando](estructura-comando.md)
+- [Estructura de un comando](docs/estructura-comando.md)
