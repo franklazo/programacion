@@ -4,6 +4,8 @@ Generado por [Claude](https://claude.ai/).
 
 Este temario es independiente del lenguaje. Cada tema aplica igual en Python, JavaScript, Java, C#, Go, etc.; solo cambia la sintaxis.
 
+---
+
 ## Etapa 0: Preparación y mentalidad
 
 1. **Qué es programar**: algoritmos, instrucciones, máquina y lenguaje.
@@ -11,6 +13,8 @@ Este temario es independiente del lenguaje. Cada tema aplica igual en Python, Ja
 3. **Entorno de trabajo**: editor/IDE, terminal básica, instalación del lenguaje, ejecutar un archivo.
 4. **Pensamiento computacional**: descomposición de problemas, abstracción, patrones, pseudocódigo y diagramas de flujo.
 5. **Leer errores**: tipos de error (sintaxis, ejecución, lógica) y cómo interpretar un mensaje de error.
+
+---
 
 ## Etapa 1: Fundamentos del lenguaje
 
@@ -22,9 +26,13 @@ Este temario es independiente del lenguaje. Cada tema aplica igual en Python, Ja
 6. **Entrada y salida**: leer del usuario, imprimir, formatear texto.
 7. **Cadenas de texto**: concatenación, interpolación, métodos comunes, inmutabilidad, codificación (Unicode/UTF-8).
 
+---
+
 ### 🛠 Mini proyecto 1
 
 Calculadora básica por consola (suma, resta, multiplicación, división) y un conversor de unidades (°C ↔ °F, km ↔ millas).
+
+---
 
 ## Etapa 2: Control de flujo
 
