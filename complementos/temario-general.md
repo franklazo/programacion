@@ -1,7 +1,5 @@
 # Temario general de programación
 
-Generado por [Claude](https://claude.ai/).
-
 Este temario es independiente del lenguaje. Cada tema aplica igual en Python, JavaScript, Java, C#, Go, etc.; solo cambia la sintaxis.
 
 ---
@@ -21,12 +19,10 @@ Este temario es independiente del lenguaje. Cada tema aplica igual en Python, Ja
 1. **Sintaxis básica**: instrucciones, comentarios, indentación/bloques, convenciones de nombres.
 2. **Variables y constantes**: declaración, asignación, alcance básico.
 3. **Tipos de datos primitivos**: enteros, decimales, booleanos, caracteres, texto, nulo/vacío.
-4. **Tipado**: estático vs. dinámico, fuerte vs. débil, conversión (*casting*) entre tipos.
+4. **Tipado**: estático vs. dinámico, fuerte vs. débil, conversión (casting) entre tipos.
 5. **Operadores**: aritméticos, comparación, lógicos, asignación, precedencia.
 6. **Entrada y salida**: leer del usuario, imprimir, formatear texto.
 7. **Cadenas de texto**: concatenación, interpolación, métodos comunes, inmutabilidad, codificación (Unicode/UTF-8).
-
----
 
 ### 🛠 Mini proyecto 1
 
@@ -44,6 +40,7 @@ Calculadora básica por consola (suma, resta, multiplicación, división) y un c
 6. **Patrones algorítmicos básicos**: contadores, acumuladores, banderas (flags), búsqueda del máximo/mínimo.
 
 ### 🛠 Mini proyecto 2
+
 Juego de adivinar el número, y un validador de contraseñas con reglas (longitud, mayúsculas, números).
 
 ---
@@ -60,6 +57,7 @@ Juego de adivinar el número, y un validador de contraseñas con reglas (longitu
 8. **Módulos y paquetes**: dividir código en archivos, importar/exportar, librería estándar, gestores de dependencias.
 
 ### 🛠 Mini proyecto 3
+
 Generador de contraseñas aleatorias con módulos separados, y una función recursiva para Fibonacci/factorial comparada con su versión iterativa.
 
 ---
@@ -77,6 +75,7 @@ Generador de contraseñas aleatorias con módulos separados, y una función recu
 9. **Elegir la estructura adecuada** según el problema.
 
 ### 🛠 Mini proyecto 4
+
 Gestor de contactos en memoria (agregar, buscar, editar, eliminar) y un contador de frecuencia de palabras en un texto.
 
 ---
@@ -92,6 +91,7 @@ Gestor de contactos en memoria (agregar, buscar, editar, eliminar) y un contador
 7. **Expresiones regulares**: sintaxis básica, búsqueda, extracción y validación.
 
 ### 🛠 Mini proyecto 5
+
 Gestor de tareas (to-do) por consola con persistencia en archivo JSON, con manejo de errores y argumentos de línea de comandos.
 
 ---
@@ -110,6 +110,7 @@ Gestor de tareas (to-do) por consola con persistencia en archivo JSON, con manej
 10. **Otros paradigmas**: programación funcional, imperativa, declarativa; cuándo cada una aporta.
 
 ### 🛠 Mini proyecto 6
+
 Sistema de biblioteca o inventario con clases (Libro, Usuario, Préstamo), herencia y persistencia en archivo.
 
 ---
@@ -128,6 +129,7 @@ Sistema de biblioteca o inventario con clases (Libro, Usuario, Préstamo), heren
 10. **Resolución de problemas**: practicar con ejercicios tipo LeetCode/HackerRank.
 
 ### 🛠 Mini proyecto 7
+
 Buscador de rutas en un laberinto o mapa (BFS/DFS) y un visualizador por consola de algoritmos de ordenamiento comparando tiempos.
 
 ---
@@ -144,6 +146,7 @@ Buscador de rutas en un laberinto o mapa (BFS/DFS) y un visualizador por consola
 8. **Empaquetado y distribución** de tu código.
 
 ### 🛠 Mini proyecto 8
+
 Retomar un proyecto anterior y llevarlo a nivel profesional: repositorio en Git, pruebas unitarias, linter, README y empaquetado instalable.
 
 ---
@@ -161,6 +164,7 @@ Retomar un proyecto anterior y llevarlo a nivel profesional: repositorio en Git,
 9. **ORMs** y acceso a datos desde el código.
 
 ### 🛠 Mini proyecto 9
+
 API REST de un sistema de notas o tareas con base de datos, y un script que consuma una API pública (clima, divisas) de forma asíncrona.
 
 ---
@@ -177,7 +181,9 @@ API REST de un sistema de notas o tareas con base de datos, y un script que cons
 8. **Observabilidad**: logs, métricas, monitoreo.
 
 ### 🛠 Proyecto integrador final
+
 Aplicación completa de tu elección (por ejemplo, gestor de finanzas personales o plataforma de reservas) con:
+
 - Backend con API y base de datos
 - Pruebas automatizadas
 - Contenerización con Docker
@@ -196,9 +202,12 @@ Aplicación completa de tu elección (por ejemplo, gestor de finanzas personales
 
 ---
 
+## Notas
+
+El contenido de este temario fue generado por [Claude](https://claude.ai/).
+
 ### Cómo usar este temario
+
 - Las etapas **0 a 6** dan el dominio general del lenguaje; las **7 a 10** te llevan a nivel de desarrollador completo.
 - No avances de etapa sin terminar su mini proyecto: ahí se consolida lo aprendido.
 - Al terminar la etapa 6, es buen momento para decidir una especialización (web, datos, automatización, móvil, sistemas, etc.).
-
-Si quieres, puedo adaptarlo a un lenguaje concreto con sus particularidades y recursos, o agregar ejercicios por etapa.
