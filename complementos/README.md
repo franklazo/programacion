@@ -13,4 +13,3 @@ Herramientas adicionales:
 - [Visual Studio Code](docs/vscode.md)
 - [Estructura de un comando](docs/estructura-comando.md)
 - [Temario general de programación](temario-general.md)
-- [Temario general de programación](temario-programacion.md)
