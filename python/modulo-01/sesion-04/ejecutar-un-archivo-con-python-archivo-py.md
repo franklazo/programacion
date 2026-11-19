@@ -1,19 +1,19 @@
 # Ejecutar un archivo con `python archivo.py`
 
-1. Navega hasta la carpeta donde está tu archivo:
+- Navega hasta la carpeta donde está tu archivo:
 
-   ```shell
-   cd python-curso/modulo-01
-   ```
+```shell
+cd python-curso/modulo-01
+```
 
-2. Comprueba que está ahí (`dir` o `ls`).
-3. Ejecútalo:
+- Comprueba que está ahí (`dir` o `ls`).
+- Ejecútalo:
 
-   ```shell
-   python hola.py
-   ```
+```shell
+python hola.py
+```
 
-   En macOS y Linux puede ser `python3 hola.py`.
+- En macOS y Linux puede ser `python3 hola.py`.
 
 **Errores frecuentes:**
 

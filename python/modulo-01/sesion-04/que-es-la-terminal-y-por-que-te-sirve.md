@@ -1,4 +1,4 @@
-# Qué es la terminal y por qué te sirve
+# ¿Qué es la terminal y por qué te sirve?
 
 - Es una ventana donde das órdenes al ordenador **escribiendo texto** en lugar de hacer clic.
 - Te sirve para ejecutar programas, moverte entre carpetas e instalar paquetes (`pip`).
