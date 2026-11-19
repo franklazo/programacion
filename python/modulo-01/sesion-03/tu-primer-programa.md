@@ -13,15 +13,15 @@
 
 ## ✏ Práctica
 
-**Programa 1.** Archivo `hola.py`:
+**Programa 1.** Archivo [`hola.py`](code/01_hola.py):
 
 ```python
 print("Hola, mundo")
 ```
 
-**Programa 2.** Archivo `presentacion.py`: imprime tu nombre y una frase sobre por qué quieres aprender Python.
+**Programa 2.** Archivo [`presentacion.py`](code/02_presentacion.py): imprime tu nombre y una frase sobre por qué quieres aprender Python.
 
-**Programa 3.** Archivo `dibujo.py`: crea un dibujo con texto y comenta cada parte. Ejemplo:
+**Programa 3.** Archivo [`dibujo.py`](code/03_dibujo.py): crea un dibujo con texto y comenta cada parte. Ejemplo:
 
 ```python
 # Techo
