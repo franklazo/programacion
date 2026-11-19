@@ -8,7 +8,7 @@
 
 ## Práctica
 
-- Crea `errores.py` y prueba **uno por uno** (descomenta solo uno cada vez):
+- Crea [`errores.py`](code/errores.py) y prueba **uno por uno** (descomenta solo uno cada vez):
 
 ```python
 # print("Hola)        -> SyntaxError
