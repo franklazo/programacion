@@ -5,27 +5,7 @@
 1. [Entender qué vas a hacer](sesion-01/entender-que-vas-a-hacer.md)
 1. [Preparar tu entorno](sesion-02/preparar-tu-entorno.md)
 1. [Tu primer programa](sesion-03/tu-primer-programa.md)
-
-## Sesión 3. Tu primer programa (60 min)
-
-**Objetivo:** escribir, guardar y ejecutar código por primera vez.
-
-**Temas**
-- Crear un archivo `.py`
-- La función `print()` y cómo mostrar texto
-- Texto entre comillas simples y dobles
-- Varias instrucciones: el orden de ejecución, de arriba abajo
-- Comentarios con `#`: para qué sirven y cuándo usarlos
-- Ejecutar el archivo desde el editor
-
-**Práctica:** tres programas cortos:
-1. Imprimir "Hola, mundo"
-2. Imprimir tu nombre y una frase sobre por qué quieres aprender Python
-3. Imprimir un pequeño dibujo con texto (arte ASCII), con comentarios que expliquen cada parte
-
-**Comprobación:** ejecutas tus archivos sin ayuda y entiendes por qué la salida aparece en ese orden.
-
----
+1. [Ejecutar código de distintas formas](sesion-04/ejecutar-codigo-de-distintas-formas.md)
 
 ## Sesión 4. Ejecutar código de distintas formas (45-60 min)
 
