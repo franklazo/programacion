@@ -1,11 +1,9 @@
 # Primeros pasos
 
----
-
-1. [Entender qué vas a hacer](sesion-01/entender-que-vas-a-hacer.md)
-1. [Preparar tu entorno](sesion-02/preparar-tu-entorno.md)
-1. [Tu primer programa](sesion-03/tu-primer-programa.md)
-1. [Ejecutar código de distintas formas](sesion-04/ejecutar-codigo-de-distintas-formas.md)
+- [Entender qué vas a hacer](sesion-01/entender-que-vas-a-hacer.md)
+- [Preparar tu entorno](sesion-02/preparar-tu-entorno.md)
+- [Tu primer programa](sesion-03/tu-primer-programa.md)
+- [Ejecutar código de distintas formas](sesion-04/ejecutar-codigo-de-distintas-formas.md)
 
 ## Sesión 4. Ejecutar código de distintas formas (45-60 min)
 
