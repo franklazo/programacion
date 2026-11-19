@@ -22,7 +22,6 @@ Apuntes generales del lenguaje de programación [Python][python]
 - [Gestión de errores](.md)
 - [Interfaces gráficas de usuario](.md)
 
-
 <!-- REFERENCIAS -->
 
 [python]: https://www.python.org/
