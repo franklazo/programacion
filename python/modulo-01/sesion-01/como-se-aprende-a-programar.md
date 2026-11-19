@@ -1,4 +1,4 @@
-# Cómo se aprende a programar 🤔
+# ¿Cómo se aprende a programar?
 
 - **Practicando:** se aprende escribiendo código, no solo leyendo o viendo vídeos.
 - **Constancia:** 30 minutos al día rinden más que una sesión larga a la semana.

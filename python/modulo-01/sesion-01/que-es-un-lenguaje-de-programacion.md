@@ -1,4 +1,4 @@
-# Qué es un lenguaje de programación
+# ¿Qué es un lenguaje de programación?
 
 - Es un idioma con reglas estrictas (la **sintaxis**) para dar instrucciones a un ordenador.
 - Los ordenadores solo entienden código binario (ceros y unos). Los lenguajes permiten escribir de forma legible para humanos, y algo traduce eso a lo que la máquina entiende.

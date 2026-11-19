@@ -1,4 +1,4 @@
-# Qué es un programa
+# ¿Qué es un programa?
 
 - Es una **secuencia de instrucciones** que el ordenador ejecuta en orden, una a una.
 - El ordenador no interpreta ni adivina: hace **exactamente** lo que le dices, ni más ni menos.
