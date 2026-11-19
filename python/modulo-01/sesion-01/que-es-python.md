@@ -1,4 +1,4 @@
-# Qué es Python 🐍
+# ¿Qué es Python?
 
 - Lenguaje **de propósito general**: sirve para casi cualquier tipo de proyecto.
 - **Interpretado:** un programa llamado *intérprete* lee tu código y lo ejecuta línea a línea, sin pasos previos complicados. Puedes escribir y probar al instante.
