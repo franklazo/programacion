@@ -1,30 +1,11 @@
-# Python: programación general desde cero
+# Curso de Python
 
-**Enfoque:** aprender a pensar como programador y a resolver problemas con código, para que puedas construir tus propias herramientas y aplicaciones. No hay especialización ni preparación para trabajo en equipo, así que dejo fuera cosas como metodologías ágiles, revisión de código o flujos de trabajo con ramas. Cada módulo termina con un **mini proyecto** para que lo aprendido se use enseguida.
-
----
+Programación general desde cero
 
 ## Fase 1: Fundamentos
 
-- [Módulo 1. Primeros pasos](modulo-01/primeros-pasos.md)
-
-### Módulo 1. Primeros pasos
-- Qué es programar y qué es un lenguaje de programación
-- Instalar Python y elegir un editor (VS Code o Thonny para empezar)
-- Ejecutar código desde el editor y desde la terminal
-- Tu primer programa: `print()` y comentarios
-- Leer mensajes de error (aprender a entenderlos es una habilidad clave)
-
-**Mini proyecto:** programa que te saluda por tu nombre.
-
-### Módulo 2. Datos y operaciones básicas
-- Variables y asignación
-- Tipos básicos: `int`, `float`, `str`, `bool`, `None`
-- Operadores aritméticos, de comparación y lógicos
-- Entrada del usuario con `input()` y conversión de tipos
-- Cadenas de texto: f-strings, métodos útiles, índices y *slicing*
-
-**Mini proyecto:** calculadora de propinas o conversor de unidades.
+- [Primeros pasos](modulo-01/primeros-pasos.md)
+- [Datos y operaciones básicas](modulo-02/datos-y-operaciones-basicas.md)
 
 ### Módulo 3. Control de flujo
 - Condicionales: `if`, `elif`, `else`
@@ -180,3 +161,8 @@ Elige algo que realmente quieras usar y pasa por todo el ciclo:
 ---
 
 Si quieres, puedo convertir este temario en un **plan semanal con ejercicios concretos** por módulo, o ajustarlo si ya sabes algo de programación o tienes una idea de proyecto en mente.
+
+---
+
+Desarrolla el contenido de la sesión 1, punto por punto y de manera concisa 😃
+Las soluciones de la práctica por favor 😎
