@@ -1,14 +1,10 @@
-# Entender qué vas a hacer 😃
+# Entender qué vas a hacer
 
-**Objetivo:** tener claro qué es programar y por qué Python es una buena elección para empezar.
-
-## 📚 Contenido
-
-1. [Qué es un programa](que-es-un-programa.md)
-1. [Qué es un lenguaje de programación](que-es-un-lenguaje-de-programacion.md)
-1. [Qué es Python](que-es-python.md)
-1. [Qué se puede construir con Python](que-se-puede-construir-con-python.md)
-1. [Cómo se aprende a programar](como-se-aprende-a-programar.md)
+- [Qué es un programa](que-es-un-programa.md)
+- [Qué es un lenguaje de programación](que-es-un-lenguaje-de-programacion.md)
+- [Qué es Python](que-es-python.md)
+- [Qué se puede construir con Python](que-se-puede-construir-con-python.md)
+- [Cómo se aprende a programar](como-se-aprende-a-programar.md)
 
 ## ✏ Práctica
 
