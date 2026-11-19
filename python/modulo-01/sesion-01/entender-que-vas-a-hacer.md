@@ -5,7 +5,4 @@
 - [¿Qué es Python?](que-es-python.md)
 - [¿Qué se puede construir con Python?](que-se-puede-construir-con-python.md)
 - [¿Cómo se aprende a programar?](como-se-aprende-a-programar.md)
-
-## Práctica
-
-- Escribe en papel, paso a paso, las instrucciones para preparar una tarea cotidiana (por ejemplo, un té). Luego revisa cada paso preguntándote: *¿podría alguien que no sabe nada de esto seguirlo sin dudas?* Si no, falta precisión. Eso es pensar como un programa.
+- [Práctica de la sesión 1](practica-de-la-sesion-1.md)
