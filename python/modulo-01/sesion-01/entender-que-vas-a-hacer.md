@@ -12,7 +12,7 @@
 
 ## Comprobación
 
-- [ ] ¿Qué es un programa?
+- [x] ¿Qué es un programa?
 - [ ] ¿Qué diferencia hay entre código fuente y programa en ejecución?
 - [ ] ¿Qué significa que Python sea "interpretado"?
 - [ ] ¿Qué te gustaría construir con Python?
