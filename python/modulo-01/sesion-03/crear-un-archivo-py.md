@@ -1,4 +1,4 @@
-# Crear un archivo `.py` 🐍
+# Crear un archivo `.py`
 
 - Un programa de Python es un archivo de texto con extensión `.py`.
 - En tu editor: **Archivo → Nuevo**, y guárdalo como `hola.py` dentro de `modulo-01`.
