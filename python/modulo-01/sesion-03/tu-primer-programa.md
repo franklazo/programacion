@@ -6,6 +6,7 @@
 - [Varias instrucciones y orden de ejecución](varias-instrucciones-y-orden-de-ejecucion.md)
 - [Comentarios con `#`](comentarios-con-almohadilla.md)
 - [Ejecutar el archivo desde el editor](ejecutar-el-archivo-desde-el-editor.md)
+- [Práctica 3](practica-python-3.md)
 
 ## Práctica
 

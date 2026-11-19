@@ -6,3 +6,5 @@
 3. Esperar a que no vengan coches
 4. Cruzar
 ```
+
+¿Qué pasaría si se ejecutaran tal cual estaban? Cruzarías primero, antes de llegar a la acera y antes de mirar. El ordenador no cuestionaría el orden, sino que lo ejecutaría tal cual aunque no tuviera sentido.

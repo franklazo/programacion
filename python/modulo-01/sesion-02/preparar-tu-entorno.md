@@ -5,4 +5,4 @@
 - [Elegir un editor](elegir-un-editor.md)
 - [Conocer las partes del editor](conocer-las-partes-del-editor.md)
 - [Organizar tu carpeta de trabajo](organizar-tu-carpeta-de-trabajo.md)
-- [Práctica 2](practica-python-2.md)
+- [Práctica 2](practica-2.md)
