@@ -15,8 +15,3 @@
 ```python
 print("Entorno listo")
 ```
-
-## Comprobación
-
-- `python --version` (o `python3 --version`) muestra un número de versión.
-- Tu editor abre la carpeta y ejecuta `prueba.py` mostrando **Entorno listo**.

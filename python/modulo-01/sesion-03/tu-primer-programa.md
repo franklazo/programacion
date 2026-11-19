@@ -28,10 +28,3 @@ print("|____|")
 ```
 
 *(La barra invertida `\` se escribe doble, `\\`, para que aparezca una sola.)*
-
-## Comprobación
-
-- Creas y guardas un `.py` sin ayuda.
-- Sabes por qué la salida aparece en ese orden.
-- Entiendes para qué sirven las comillas y los comentarios.
-- Si algo falla, lees el mensaje de error y buscas la línea indicada.
