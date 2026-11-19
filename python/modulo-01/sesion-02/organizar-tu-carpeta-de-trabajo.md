@@ -1,4 +1,4 @@
-# Organizar tu carpeta de trabajo 📁
+# Organizar tu carpeta de trabajo
 
 - Crea esta estructura en un lugar fácil de encontrar (por ejemplo, Documentos):
 

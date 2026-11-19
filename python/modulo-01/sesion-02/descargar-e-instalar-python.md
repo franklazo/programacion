@@ -1,4 +1,4 @@
-# Descargar e instalar Python 🐍
+# Descargar e instalar Python
 
 - Entra en [python.org](https://www.python.org/) → *Downloads* y descarga la última versión estable de Python 3.
 - **Windows:** ejecuta el instalador y marca **"Add Python to PATH"** antes de pulsar *Install Now*. Sin eso, la terminal no reconocerá `python`.

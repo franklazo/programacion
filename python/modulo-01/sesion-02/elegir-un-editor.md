@@ -1,4 +1,4 @@
-# Elegir un editor 📝
+# Elegir un editor
 
 |            | **Thonny**                       | **VS Code**                      |
 | :---       | :---                             | :---                             |

@@ -1,4 +1,4 @@
-# Conocer las partes del editor 📝
+# Conocer las partes del editor
 
 - **Área de código:** donde escribes tu programa.
 - **Terminal o consola:** donde aparece el resultado y los errores.
