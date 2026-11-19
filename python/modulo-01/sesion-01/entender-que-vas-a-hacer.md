@@ -5,4 +5,4 @@
 - [¿Qué es Python?](que-es-python.md)
 - [¿Qué se puede construir con Python?](que-se-puede-construir-con-python.md)
 - [¿Cómo se aprende a programar?](como-se-aprende-a-programar.md)
-- [Práctica de la sesión 1](practica-de-la-sesion-1.md)
+- [Práctica 1](practica-python-1.md)

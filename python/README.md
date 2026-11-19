@@ -165,6 +165,6 @@ Si quieres, puedo convertir este temario en un **plan semanal con ejercicios con
 ---
 
 Desarrolla el contenido de la sesión 1, punto por punto y de manera concisa 😃
-Las soluciones de la práctica por favor 😎
+Dame una lista de problemas/ejercicios imprescindibles conocer/resolver para esta sesión, sólo los necesarios, antes de pasar a la siguiente sesión 🤠
 Las soluciones de los ejercicios por favor 😎
-Dame una lista de problemas/ejercicios imprescindibles conocer/resolver para esta sesión, y antes de pasar a la siguiente sesión 🤠
+Las soluciones de la práctica por favor 😎

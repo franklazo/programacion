@@ -1,4 +1,4 @@
-# Práctica de la sesión 1
+# Práctica 1
 
 Ejercicios de **pensamiento y comprensión**:
 
