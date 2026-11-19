@@ -4,23 +4,8 @@
 - [Preparar tu entorno](sesion-02/preparar-tu-entorno.md)
 - [Tu primer programa](sesion-03/tu-primer-programa.md)
 - [Ejecutar código de distintas formas](sesion-04/ejecutar-codigo-de-distintas-formas.md)
-
-## Sesión 4. Ejecutar código de distintas formas (45-60 min)
-
-**Objetivo:** moverte con comodidad entre el editor y la terminal.
-
-**Temas**
-- Qué es la terminal y por qué te va a servir (la usarás mucho más adelante)
-- Comandos básicos de navegación: `cd`, `ls` (o `dir` en Windows), `pwd`
-- Ejecutar un archivo con `python archivo.py`
-- El modo interactivo (REPL): abrirlo con `python` y probar instrucciones sueltas
-- Cuándo conviene usar el REPL (experimentar) y cuándo un archivo (programas completos)
-
-**Práctica:** ejecutar los programas de la sesión 3 desde la terminal, y luego usar el REPL para probar `print("...")` y operaciones simples como `2 + 3`.
-
-**Comprobación:** puedes ejecutar cualquiera de tus archivos desde la terminal y sabes salir del REPL (`exit()`).
-
----
+- [Errores y mini proyecto](sesion-05/errores-y-mini-proyecto.md)
+- [y mini proyecto]
 
 ## Sesión 5. Errores y mini proyecto (60-90 min)
 
