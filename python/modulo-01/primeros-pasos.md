@@ -5,4 +5,4 @@
 - [Tu primer programa](sesion-03/tu-primer-programa.md)
 - [Ejecutar código de distintas formas](sesion-04/ejecutar-codigo-de-distintas-formas.md)
 - [Errores](sesion-05/errores.md)
-- [Mini proyecto 1: saludo personalizado](mini-proyecto-1-saludo-personalizado.md)
+- [Práctica integral 1](practica-integral-1.md)
