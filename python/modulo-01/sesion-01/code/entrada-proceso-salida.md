@@ -1,4 +1,4 @@
-# Entrada → proceso → salida
+# Ejercicio 2
 
 | Caso                         | Entrada                                    | Proceso                                                     | Salida                              |
 | :---                         | :---                                       | :---                                                        | :---                                |

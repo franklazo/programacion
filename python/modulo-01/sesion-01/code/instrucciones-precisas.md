@@ -1,4 +1,4 @@
-# Instrucciones precisas
+# Ejercicio 1
 
 ```text
  1. Llenar una cacerola con agua del grifo
