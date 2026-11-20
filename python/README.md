@@ -1,8 +1,10 @@
-# Curso de Python
+# Python
 
-Programación general desde cero
+Apuntes y programas generados por [Claude](https://claude.ai/)
 
-## Fase 1: Fundamentos
+## Contenido
+
+<!-- ## Fase 1: Fundamentos -->
 
 - [Primeros pasos](modulo-01/primeros-pasos.md)
 - [Datos y operaciones básicas](modulo-02/datos-y-operaciones-basicas.md)
@@ -166,5 +168,4 @@ Si quieres, puedo convertir este temario en un **plan semanal con ejercicios con
 
 Desarrolla el contenido de la sesión 1, punto por punto y de manera concisa 😃
 Dame una lista de problemas/ejercicios imprescindibles conocer/resolver para esta sesión, sólo los necesarios, antes de pasar a la siguiente sesión 🤠
-Las soluciones de los ejercicios por favor 😎
-Las soluciones de la práctica por favor 😎
+Las soluciones comentadas de los ejercicios por favor 😎
