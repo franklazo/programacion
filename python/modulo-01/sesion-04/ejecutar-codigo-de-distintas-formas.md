@@ -5,10 +5,4 @@
 - [Ejecutar un archivo con `python archivo.py`](ejecutar-un-archivo-con-python-archivo-py.md)
 - [El modo interactivo (REPL)](el-modo-interactivo-repl.md)
 - [¿Archivo o REPL?](archivo-o-repl.md)
-
-## Práctica
-
-- Abre la terminal y navega hasta tu carpeta `modulo-01`.
-- Ejecuta los tres programas de la sesión 3 con `python archivo.py`.
-- Abre el REPL y prueba `2 + 3`, `10 / 4` y `print("Hola")`.
-- Sal del REPL con `exit()`.
+- [Práctica 4](practica-4.md)
